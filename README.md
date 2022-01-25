@@ -10,12 +10,12 @@ $ tree .
 |-- main.py
 |-- my_package
 |   |-- __init__.py
-|   `-- module.py
+|   `-- my_module.py
 `-- tests.py
 ```
 
 
-# Calling function in a package
+# Calling function in a package from main.py
 ```
 $ python main.py
 hoge!!!
@@ -25,12 +25,11 @@ hoge!!!
 # Unit test
 
 ```
-$ python tests.py
+$ python tests.py                                                                                                                   master ✱ ➜
 hoge!!!
 .
 ----------------------------------------------------------------------
 Ran 1 test in 0.000s
-  1 from my_package import say_hoge
 
 OK
 ```

@@ -1,1 +1,1 @@
-from my_package.module import say_hoge
+from my_package.my_module import say_hoge
