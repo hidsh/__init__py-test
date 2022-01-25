@@ -1,5 +1,4 @@
 import unittest
-#from my_package.hoge import say_hoge
 from my_package import say_hoge
 
 class TestHoge(unittest.TestCase):
