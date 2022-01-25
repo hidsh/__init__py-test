@@ -1,6 +1,6 @@
 # __init__py-test
 
-An Example of using package and __init__.py in Python
+An Example of using package and \__init__.py in Python
 
 # Folder tree
 
